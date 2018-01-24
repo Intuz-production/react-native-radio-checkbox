@@ -1,19 +1,19 @@
-**<h1>Introduction</h1>**
+<h1>Introduction</h1>
 
-INTUZ is presenting a radiobutton/checkbox list control to integrate inside your React Native application. This component helps you to integrate radio button and checkbox list in application for both Android and iOS platforms.Please follow below steps to integrate this control in your next project.
+INTUZ is presenting a radiobutton/checkbox list control to integrate inside your React Native based application for both Android and iOS platforms. Please follow below steps to integrate this control in your next project.
 
 <br>
-**<h1>Features</h1>**
-* Checkbox list support
-* Radiobutton list support
-* Control maximum selected items
-* Clear all selection and select all options
-* Customizable style and icons
+<h1>Features</h1>
+- Support for Checkbox list
+- Support for Radio list
+- Control maximum selected items
+- Clear all selection and select all options
+- Customizable style and icons
 
 <br>
 <img src="Screenshots/radio_checkbox.gif" width=500 alt="Screenshots/radio_checkbox.png">
 
-**<h1>Getting Started</h1>**
+<h1>Getting Started</h1>
 
 > Import RadioCheckBox in your .js file
 
@@ -67,7 +67,7 @@ var selected=[];
     this.refs.radioCheckbox.setSelectedOptins(selected);
 ```
 <br>
-**<h1>Properties</h1>**
+<h1>Properties</h1>
 
 | Available properties | Type | Default Value | Required | Description |
 |--------------------------|------------------------|-------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -86,12 +86,12 @@ var selected=[];
 | getSelectedOptions() | Method | - | - | To get all selected options |
 | setSelectedOptins(array) | Method | - | - | To set selected options. Pass array of index of selected items. |                                                                                                         |
 <br>
-**<h1>Bugs and Feedback</h1>**
+<h1>Bugs and Feedback</h1>
 
 For bugs, questions and discussions please use the Github Issues.
 
 <br>
-**<h1>License</h1>**
+<h1>License</h1>
 
 Copyright (c) 2018 Intuz Solutions Pvt Ltd.
 <br><br>
@@ -99,8 +99,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 <br><br>
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-**<h1></h1>**
-**<h1></h1>**
+<h1></h1>
 <a href="http://www.intuz.com">
 <img src="Screenshots/logo.jpg">
 </a>
