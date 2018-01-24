@@ -4,6 +4,7 @@ INTUZ is presenting a radiobutton/checkbox list control to integrate inside your
 
 <br>
 <h1>Features</h1>
+
 - Support for Checkbox list
 - Support for Radio list
 - Control maximum selected items
