@@ -1,5 +1,7 @@
-<h1>Introduction</h1>
-
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [React Native app development](https://www.intuz.com/custom-app-development)
+and [mobile app development](https://www.intuz.com/ios-development).
+<br><br>
 INTUZ is presenting a radiobutton/checkbox list control to integrate inside your React Native based application for both Android and iOS platforms. Please follow below steps to integrate this control in your next project.
 
 <br>
